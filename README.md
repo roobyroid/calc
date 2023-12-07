@@ -1,3 +1,3 @@
 # Сalculator
 
-[Ссылка на проект](https://roobyroid.github.io/react-weather/)
+[Ссылка на проект](https://roobyroid.github.io/calc/)
